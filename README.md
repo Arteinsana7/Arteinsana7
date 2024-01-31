@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eliana.
-- 👀 I’m interested in Music, art,Technologies.
-- 🌱 I’m currently learning JS, React, 
-- 💞️ I’m looking to collaborate on Visual projects.
+- 👀 I’m interested in music, cinema, art and technology.
+- 🌱 I’m currently looking for an intership or 'alternance' 👩‍🎨 as front end developer.
+- 💞️ I’m looking to discover various technoligies, and to colaborate with new exiting challenges ! 
 - 📫 e.arteinsana@gmail.com
 
 <!---
