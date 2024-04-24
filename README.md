@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eliana.
 - 👀 Passionate about music, cinema, art and technology.
 - 🌱 I’m currently looking to grow and learn within an apprenticeship as full-stack developer.
-- 💞️ Ready discover new technologies and to colaborate on new exiting challenges ! 
+- 💞️ Ready discover new technologies and to collaborate on new exiting challenges ! 
 - 📫 Contact me at : e.arteinsana@gmail.com
 
 <!---
